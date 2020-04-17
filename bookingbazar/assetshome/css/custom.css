@@ -1,0 +1,422 @@
+/*!
+Softgeekz.com Tarique Mosharraf
+ */
+
+.bg-navbar{
+	background-color: #003580;
+	    font-size: 13px;
+}
+
+.index-nav_container {
+    padding: 0;
+    border-bottom: 1px solid #e9f0fa;
+    margin: 0 8px 15px 8px;
+}
+
+.index-nav_container ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    height: 36px;
+    overflow: hidden;
+}
+
+.index-nav_menu-item {
+    padding: 0;
+    float: left;
+    cursor: pointer;
+}
+
+a.index-nav_menu-item-link {
+    display: block;
+    padding: 12px 20px 12px 0;
+    line-height: 100%;
+    font-weight: normal;
+    color: #07c;
+    text-decoration: none;
+    -webkit-transition: all .2s linear;
+    transition: all .2s linear;
+	    font-size: 13px
+}
+
+
+.planner .planner-block {
+    width: 100%;
+    padding: 30px;
+ /*    background-color: rgb(66, 134, 244); */
+    background-color: rgb(244, 214, 65);
+}
+
+.form-control.__plannerInput {
+    background: #ffffff url(../img/calendar-default.png) no-repeat 95% center;
+}
+
+.button_menu{
+    background-color: white;
+        color: #003580;
+   
+    border-radius: 4px;
+	
+	
+	    color: #003580;
+    padding: 5px;
+    margin: 3px;
+}
+
+
+.py-1 {
+    padding-top: 1rem!important;
+    padding-bottom: 1rem!important;
+}
+
+.footerbg{
+background-color: #003580;	
+}
+
+.footer{
+	margin-top: 25px;
+}
+
+.pull-right{
+	    float: right;
+}
+
+.no-margin {
+    margin: 0px !important;
+}
+
+
+.popular_locationthumb_box{
+    float: left ;     max-width: 100px;    margin-right: 32px;
+}
+
+.popular_locationthumb{
+        float: left;
+    margin: 0px;
+    height: 113px;
+    width: 115px;
+}
+
+.popular_location_country a{
+    color:#5bbaff;
+}
+
+
+
+.poppular_location_name a{
+        color: #07c;
+}
+
+.poppular_location_name a:hover{
+        color: #febb02;
+}
+
+.popular_location_box{
+    border: 1px solid #003580  ; 
+    padding: 0px; 
+    margin: 10px 0px 10px; 
+    height: 115px; 
+    border-radius: 3px;
+}
+
+.popular_location_stats{
+     margin-right: 5px;
+    font-size: 12px;
+}
+.popular_location_arrow{
+    margin-top: -50px;
+
+}
+
+
+.breadcrumb_change {
+    /* padding: .75rem 1rem; */
+    margin-bottom: 1rem;
+    list-style: none;
+    background-color: transparent; 
+    margin-left: -6px;
+}
+
+.city-lp-header-rating{
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 400;
+
+    color: #sfdd;
+    text-shadow: 0 1px 2px rgba(0,0,0,0.5);
+    font-size: 1em;
+    margin: 10px 0px 0px 0px;
+    padding-top: 15px;
+}
+
+
+.city_top_box h1{
+    font-weight: 600;
+}
+
+.city-header-title{
+    color: darkblue;
+}
+
+.sb-searchbox--painted {
+    padding: 12px;
+    border-radius: 3px;
+    border: 1px solid;
+    background: #febb02;
+    background: -webkit-gradient(linear,left top,left bottom,from(#febb02),to(#febb02));
+    background: -webkit-linear-gradient(top,#febb02 0,#febb02 100%);
+    background: linear-gradient(to bottom,#febb02 0,#febb02 100%);
+    border-color: #e2aa11;
+    font-size: 13px;
+}
+
+.search_radio_block{
+        background-color: #ffd2a2;
+    background-color: rgba(255,255,255,0.5);
+    padding: 8px 28px 5px 10px;
+    border-radius: 2px;
+}
+
+.search_form_select{
+    margin-right: 20px;
+}
+
+.margin10{
+ margin: 10px;
+}
+
+.hotel_box {
+    border: 1px solid #cdd0d2;
+	margin-top: 10px;
+}
+
+.hotel_box img{
+  width: 100%;
+}
+
+.item__details{
+    margin-left: -10px;
+}
+
+.rating{
+    color: #e2aa11; font-size: 18px; margin-right: 10px;
+}
+
+
+
+ul li {
+	list-style-type: none;
+	 padding: 0;
+}
+
+ul {
+
+	 padding: 0;
+}
+
+.font-12{
+	font-size: 12px;
+	text-align: justify;
+}
+
+.font-20{
+	font-size: 20px;
+}
+
+.hotelname{
+	    font-size: 20px;
+		font-weight: bold;
+	
+}
+
+.hotelstar{
+	border: 1px solid orange;
+    padding: 3px;
+    border-radius: 6px;
+    font-size: 11px;
+	margin-right: 8px;
+}
+
+.hotellist-rightpan{
+margin-right: 12px;
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+.blue-badge{
+	background: #003580;
+    color: #fff;
+    text-shadow: none;
+    display: inline-block;
+    text-align: center;
+    font-weight: normal;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    vertical-align: baseline;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    position: relative;
+    font-size: 16px;
+    border-radius: 6.4px 6.4px 6.4px 0;
+	padding: 3px;
+    text-decoration: none;
+}
+
+.hotelcount{
+	    font-size: 20px;
+    margin: 0;
+	font-weight: bold;
+}
+
+.white{
+	color: #fff;
+}
+
+.red{
+	color:red;
+}
+
+.property_thumb{
+	padding: 10px;
+}
+
+.hotel_dexription{
+	font-size: 12px;
+}
+
+.startrating{
+	width: 80px;
+	margin-top: -5px;
+
+}
+
+.boldfont{
+	font-weight: bold;
+}
+
+
+ul.facilitylist li{
+	font-size: 12px;
+}
+
+
+
+
+
+
+#rooms {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#rooms td, #rooms th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#rooms tr:nth-child(even){background-color: #f2f2f2;}
+
+#rooms tr:hover {background-color: #ddd;}
+
+#rooms th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+}
+
+
+h4 {
+	font-family:  sans-serif;
+	color: #3F5CF4    ;
+}
+
+.card-info{
+	    background: #3F5CF4;
+    color: #fff;
+    font-weight: bold;
+}
+
+ul li {
+    list-style-type: none;
+    padding: 0;
+    font-size: 13px;
+}
+
+
+.h5, h5 {
+    font-size: 1.25rem;
+    color: blueviolet;
+    font-family: inherit;
+}
+
+
+
+
+
+
+
+
+
+.slidecontainer {
+    width: 100%; /* Width of the outside container */
+}
+
+/* The slider itself */
+.slider {
+    -webkit-appearance: none;  /* Override default CSS styles */
+    appearance: none;
+    width: 100%; /* Full-width */
+    height: 25px; /* Specified height */
+    background: #d3d3d3; /* Grey background */
+    outline: none; /* Remove outline */
+    opacity: 0.7; /* Set transparency (for mouse-over effects on hover) */
+    -webkit-transition: .2s; /* 0.2 seconds transition on hover */
+    transition: opacity .2s;
+}
+
+/* Mouse-over effects */
+.slider:hover {
+    opacity: 1; /* Fully shown on mouse-over */
+}
+
+/* The slider handle (use -webkit- (Chrome, Opera, Safari, Edge) and -moz- (Firefox) to override default look) */ 
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none; /* Override default look */
+    appearance: none;
+    width: 25px; /* Set a specific slider handle width */
+    height: 25px; /* Slider handle height */
+    background: blue; /* Green background */
+    cursor: pointer; /* Cursor on hover */
+}
+
+.slider::-moz-range-thumb {
+    width: 25px; /* Set a specific slider handle width */
+    height: 25px; /* Slider handle height */
+    background: blue; /* Green background */
+    cursor: pointer; /* Cursor on hover */
+}
+
+
+
+
+
+
+
+/*
+Tarique personal css
+*/
+
+.location_entry{
+	border: 5px solid gray; margin-top: 10px; 
+	
+}
+.location_name{
+	color:#fff; position: absolute; top: 50%; text-algin: center; font-size: 20px; font-weight: bold;
+}
